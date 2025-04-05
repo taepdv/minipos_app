@@ -60,7 +60,7 @@ useEffect(() => {
   return (
     <>
       <div className="bg-gray-300 h-screen w-screen flex justify-center items-center">
-        <div className="bg-white p-10 w-1/2 rounded-lg">
+        <div className="bg-white p-96 w-1/2 rounded-lg">
           <div className="text-center">
             <span className="text-2xl"> ເຂົ້າສູ່ລະບົບ</span>
           </div>
