@@ -70,7 +70,7 @@ function Register() {
   return (
     <>
       <div className="bg-gray-300 h-screen w-screen flex justify-center items-center">
-        <div className="bg-white p-10 w-1/2 rounded-lg">
+        <div className="bg-white p-10 w-[90%] rounded-lg">
           <div className="text-center">
             <span className="text-2xl"> ລົງທະບຽນ</span>
           </div>
